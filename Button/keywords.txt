@@ -1,0 +1,7 @@
+Button 					KEYWORD1
+isPressed				KEYWORD2
+isLongPressed			KEYWORD2
+state					KEYWORD2
+setLongPressThreshold	KEYWORD2
+check					KEYWORD2
+
